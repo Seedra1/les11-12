@@ -1,0 +1,28 @@
+header{ 
+background-color: aquamarine;
+width: 1000px;
+height: 200px; 
+}
+body{
+background-color: whitesmoke; 
+}
+table{
+width: 400px;
+}
+th{
+text-align: left;
+background-color: rgb(236, 134, 236);
+padding: 30px;
+text-transform: uppercase;
+}
+div#snaplogo td:img{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}    
+
+footer{
+background-color: aqua;
+width: 1000px;
+height: 200px;
+}
